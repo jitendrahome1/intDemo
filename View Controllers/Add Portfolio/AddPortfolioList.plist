@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionTitle</key>
+		<string></string>
+		<key>arrayList</key>
+		<array>
+			<string></string>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Project Type</string>
+		<key>arrayList</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>new</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Style Type</string>
+		<key>arrayList</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Work Type</string>
+		<key>arrayList</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>new</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Project Budget</string>
+		<key>arrayList</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>new</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Tags</string>
+		<key>arrayList</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Upload Image</string>
+		<key>arrayList</key>
+		<array>
+			<array>
+				<string>AddPictureIcon</string>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string></string>
+		<key>arrayList</key>
+		<array>
+			<string>button</string>
+		</array>
+	</dict>
+</array>
+</plist>
